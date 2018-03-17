@@ -1,2 +1,4 @@
-# WebApi_HMACAuthentication
-Hash based Message Authentication Code - HMAC used to secure the WebAPI transactions, which enables us to operate over the internet even in the absense of TLS ot https, provided the client does not tranmit any confidential data such ass the secret API key ove the network.
+ASP.NET Web API HMAC Authentication (API Key Authentication)
+========================
+
+Project shows how to secure ASP.NET  Web API using API Keys, this technique is useful when TLS protocol is not an option and transmitting data should be done securely.
